@@ -217,7 +217,7 @@ h3 {
         background-position-y: -850px;
      }
 }
-@media only screen and (min-device-width : 320px) and (max-device-width : 480px) {
+@media only screen and (min-device-width : 320px) and (max-device-width : 320px) {
     .footer {
        background-position-y: -850px;
     }
@@ -241,7 +241,7 @@ h3 {
         top: 2346px;
     }
 }
-@media only screen and (min-device-width : 320px) and (max-device-width : 480px) {
+@media only screen and (min-device-width : 320px) and (max-device-width : 320px) {
     .follow {
         position: absolute;
         left: 750px;
@@ -264,7 +264,7 @@ h3 {
         color: white;
     }
 }
-@media only screen and (min-device-width : 320px) and (max-device-width : 480px) {
+@media only screen and (min-device-width : 320px) and (max-device-width : 320px) {
     .credit {
         top: 5320px;
         left: 25%;
@@ -287,7 +287,7 @@ left: 1%;
         left: 1%;
     }
 }
-@media only screen and (min-device-width : 320px) and (max-device-width : 480px) {
+@media only screen and (min-device-width : 320px) and (max-device-width : 320px) {
     .contact {
         top: 5190px;
         left: 1%;
