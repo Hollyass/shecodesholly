@@ -72,6 +72,7 @@ h1 {
     h1 {
     position: absolute;
     top: 13%;
+    text-size-adjust: 98%;
     }
 }
 .about {
@@ -227,7 +228,7 @@ h3 {
     .follow {
         position: absolute;
         left: 750px;
-        top: 148%;
+        top: 108%;
         z-index: 2;
     }
 }
@@ -241,7 +242,7 @@ h3 {
 }
 @media only screen and (min-device-width : 325px) and (max-device-width : 480px) {
     .credit {
-        top: 150%;
+        top: 100%;
         left: 25%;
         color: white;
     }
@@ -258,7 +259,7 @@ left: 1%;
 }
 @media only screen and (min-device-width : 325px) and (max-device-width : 480px) {
     .contact {
-        top: 148%;
+        top: 108%;
         left: 1%;
     }
 }
