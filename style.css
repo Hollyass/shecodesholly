@@ -228,7 +228,7 @@ h3 {
     .follow {
         position: absolute;
         left: 750px;
-        top: 290%;
+        top: 260%;
         z-index: 2;
     }
 }
@@ -242,7 +242,7 @@ h3 {
 }
 @media only screen and (min-device-width : 325px) and (max-device-width : 480px) {
     .credit {
-        top: 370%;
+        top: 300%;
         left: 25%;
         color: white;
     }
@@ -259,7 +259,7 @@ left: 1%;
 }
 @media only screen and (min-device-width : 325px) and (max-device-width : 480px) {
     .contact {
-        top: 290%;
+        top: 260%;
         left: 1%;
     }
 }
