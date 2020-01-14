@@ -207,9 +207,9 @@ h3 {
     background-position-y: -1060px;
     padding: 85px;
 }
-@media only screen and (min-device-width : 425px) and (max-device-width : 480px) {
+@media only screen and (min-device-width : 325px) and (max-device-width : 480px) {
     .footer {
-       background-position-y: -950px;
+       background-position-y: -850px;
     }
 }
 .follow {
