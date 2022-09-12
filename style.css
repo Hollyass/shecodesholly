@@ -223,6 +223,7 @@ h3 {
     text-decoration: none;
     text-decoration-color: red;
     color: sandybrown;
+    background-color: black;
 }
 @media only screen and (min-device-width : 325px) and (max-device-width : 480px) {
     .follow {
